@@ -1,6 +1,6 @@
 {
-  "name": "node-api",
-  "version": "1.0.0",
+  "name": "huntweb-api",
+  "version": "1.5.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.9.15",
+    "mongoose": "^5.9.18",
     "mongoose-paginate": "^5.0.3",
     "require-dir": "^1.2.0"
   },
